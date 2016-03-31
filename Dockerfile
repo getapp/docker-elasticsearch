@@ -1,4 +1,4 @@
-FROM elasticsearch:2.3
+FROM elasticsearch:2.2
 
 MAINTAINER Boris Mikhaylov
 
